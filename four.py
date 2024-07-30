@@ -119,7 +119,7 @@
 
 #  tuples 
 
-# x=(1,"hello", 21.8)
-# print(x)
-# print(type(x))
+x=(1,"hello", 21.8)
+print(x)
+print(type(x))
 
