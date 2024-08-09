@@ -38,12 +38,12 @@
 # print(type(B))
 
 
-x= int(1.3)
-print(x)
-print(type(x))
+#  Task for run 
 
-
-
+# x= int("1.3")
+# print(x)
+# print(type(x))
+# "don't run because use of multiple dat type"
 
 
 
